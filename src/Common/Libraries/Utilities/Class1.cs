@@ -1,4 +1,4 @@
-﻿namespace Libraries;
+﻿namespace Utilities;
 
 public class Class1
 {
